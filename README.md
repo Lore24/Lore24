@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lore24
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... SwiftUI
+- 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
